@@ -38,7 +38,7 @@ namespace Lab_2._2_Table_of_Powers
 
                     for (int i = 1; i <= userInt; i++)
                     {
-                        Console.WriteLine(string.Format("{0,7}{1,24}{2,24}", i, Math.Pow(1,2), Math.Pow(i,3)));
+                        Console.WriteLine(string.Format("{0,7}{1,24}{2,24}", i, Math.Pow(i,2), Math.Pow(i,3)));
                         //Console.WriteLine($"{i}\t\t\t{Math.Pow(i, 2)}\t\t\t{Math.Pow(i, 3)}");
                     }
 
