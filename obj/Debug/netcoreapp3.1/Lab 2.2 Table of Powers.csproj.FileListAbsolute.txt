@@ -1,0 +1,13 @@
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.exe
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.deps.json
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.runtimeconfig.json
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.runtimeconfig.dev.json
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.dll
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\bin\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.pdb
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.csprojAssemblyReference.cache
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.AssemblyInfoInputs.cache
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.AssemblyInfo.cs
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.csproj.CoreCompileInputs.cache
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.dll
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.pdb
+C:\Users\agerecke\source\repos\Lab 2.2 Table of Powers\obj\Debug\netcoreapp3.1\Lab 2.2 Table of Powers.genruntimeconfig.cache
